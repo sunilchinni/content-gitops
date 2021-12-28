@@ -3,4 +3,4 @@ kind: Namespace
 metadata:
   labels:
     name: laflux
-  name: laflux
+  name: laflux 
